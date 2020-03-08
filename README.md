@@ -22,15 +22,15 @@
   </ol>
    <h2> العملي:</h2>
    <ol>
-    <li> التعرف على الخصائص الأمنية في نظام ويندوز 10</li>
-    <li> Backup and restore, Windows process, memory</li>
-    <li> OpenSSL (encryption)</li>
-    <li> OpenSSL (hash)</li>
-    <li> User accounts and groups in windows </li>
-    <li> nmap </li> 
-    <li> Wireshark, http,  https</li>
-    <li>Certficate Authority- man in the middle </li>
-    <li> Cmd, powershell</li>
+    <li> مدير المهام في ويندوز 10</li>
+    <li> التحكم في العمليات والذاكرة في ويندوز 10</li>
+    <li> OpenSSL التشفير باستخدام</li>
+    <li> OpenSSL الهاش </li>
+    <li> مجموعات المستخدمين في ويندوز </li>
+    <li> nmap التعرف على برنامج  </li> 
+    <li> Wireshark استخدام برنامج واير شارك</li>
+    <li> هجمة الرجل الوسيط man in the middle </li>
+    <li>  استخدام سطر الأوامر و بور شيل</li>
     <li> Windows firewall config, TOR, vpn seed</li>
     <li> Snort for windows</li>
     <li> SQL injection </li>
