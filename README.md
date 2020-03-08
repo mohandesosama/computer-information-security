@@ -22,7 +22,7 @@
   </ol>
    <h2> العملي:</h2>
    <ol>
-    <li> لا يوجد</li>
+    <li> التعرف على الخصائص الأمنية في نظام ويندوز 10</li>
     <li> Backup and restore, Windows process, memory</li>
     <li> OpenSSL (encryption)</li>
     <li> OpenSSL (hash)</li>
