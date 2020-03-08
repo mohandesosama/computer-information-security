@@ -37,4 +37,11 @@
     <li> CVSS </li>
     <li> Mobily Router configuration SSID not to be detected by physical access </li>
   </ol>
+  
+  روابط هامة
+  OpenSSL for windows
+http://gnuwin32.sourceforge.net/packages/openssl.htm
+fcrackzip for windows
+http://oldhome.schmorp.de/marc/fcrackzip.html 
+
 </div>
