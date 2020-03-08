@@ -3,7 +3,7 @@
   <h3>
   د أسامة حسام الدين، د زهير بن سليمان مالكي  
 </h3>
-فصول الكتاب:
+  <h2> فصول الكتاب:</h2>
   <ol>
     <li> مقدمة في أمن المعلومات</li>
     <li> مكعب أمن المعلومات</li>
@@ -19,5 +19,22 @@
     <li> حماية قواعد البيانات</li>
     <li> إدارة المخاطر</li>
     <li> التحكم بالوصول الفيزيائي</li>
+  </ol>
+   <h2> العملي:</h2>
+   <ol>
+    <li> لا يوجد</li>
+    <li> Backup and restore, Windows process, memory</li>
+    <li> OpenSSL (encryption)</li>
+    <li> OpenSSL (hash)</li>
+    <li> User accounts and groups in windows </li>
+    <li> nmap </li> 
+    <li> Wireshark, http,  https</li>
+    <li>Certficate Authority- man in the middle </li>
+    <li> Cmd, powershell</li>
+    <li> Windows firewall config, TOR, vpn seed</li>
+    <li> Snort for windows</li>
+    <li> SQL injection </li>
+    <li> CVSS </li>
+    <li> Mobily Router configuration SSID not to be detected by physical access </li>
   </ol>
 </div>
