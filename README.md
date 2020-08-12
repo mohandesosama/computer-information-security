@@ -39,10 +39,15 @@
   </ol>
   
   روابط هامة
- OpenSSL for windows
-http://gnuwin32.sourceforge.net/packages/openssl.htm
-<hr> 
-* fcrackzip for windows
-http://oldhome.schmorp.de/marc/fcrackzip.html 
+
+ <ul> 
+  <li>
+OpenSSL for windows <br>
+    http://gnuwin32.sourceforge.net/packages/openssl.htm </li>
+<li>
+fcrackzip for windows <br>
+  http://oldhome.schmorp.de/marc/fcrackzip.html </li>
+   
+ </ul>
 
 </div>
