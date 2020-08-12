@@ -22,7 +22,7 @@
   </ol>
    <h2> العملي:</h2>
    <ol>
-     <li> مدير المهام في ويندوز 10 (<a href="../Labs/chapter1%20Lab%20-%20Windows%20Task%20Manager.pdf"> عرض </a>) </li>
+     <li> مدير المهام في ويندوز 10 (<a href="./Labs/chapter1%20Lab%20-%20Windows%20Task%20Manager.pdf"> عرض </a>) </li>
     <li> التحكم في العمليات والذاكرة في ويندوز 10 (<a href="--"> عرض </a>) </li>
     <li> OpenSSL التشفير باستخدام (<a href="--"> عرض </a>) </li>
     <li> OpenSSL الهاش  (<a href="--"> عرض </a>) </li>
