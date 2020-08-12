@@ -22,7 +22,7 @@
   </ol>
    <h2> العملي:</h2>
    <ol>
-     <li> مدير المهام في ويندوز 10 (<a href="https://www.tutorialspoint.com/How-to-Insert-Hyperlink-in-HTML-Page">استعراض </a>) </li>
+     <li> مدير المهام في ويندوز 10 (<a href="--"> استعراض </a>) </li>
     <li> التحكم في العمليات والذاكرة في ويندوز 10</li>
     <li> OpenSSL التشفير باستخدام</li>
     <li> OpenSSL الهاش </li>
