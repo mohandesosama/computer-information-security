@@ -31,17 +31,18 @@
     <li> Wireshark استخدام برنامج واير شارك</li>
     <li> هجمة الرجل الوسيط man in the middle </li>
     <li>  استخدام سطر الأوامر و بور شيل</li>
-    <li> Windows firewall config, TOR, vpn seed</li>
-    <li> Snort for windows</li>
-    <li> SQL injection </li>
-    <li> CVSS </li>
-    <li> Mobily Router configuration SSID not to be detected by physical access </li>
+    <li> تهيئة الجدار الناري في ويندوز والتعرف على برامج, TOR, vpn seed</li>
+    <li> برنامج Snort واستخدامه في ويندوز</li>
+    <li> حقن جمل الاستعلام SQL </li>
+    <li> CVSS إنشاء تقارير</li>
+    <li> تهيئة الموجه لكلي لا تظهر اشارته ويتم الاستيلاء الفيزيائي عليه </li>
   </ol>
   
   روابط هامة
-  OpenSSL for windows
+ OpenSSL for windows
 http://gnuwin32.sourceforge.net/packages/openssl.htm
-fcrackzip for windows
+<hr> 
+* fcrackzip for windows
 http://oldhome.schmorp.de/marc/fcrackzip.html 
 
 </div>
