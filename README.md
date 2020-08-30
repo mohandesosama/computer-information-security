@@ -5,13 +5,13 @@
 </h3>
   <h2> فصول الكتاب:</h2>
   <ol>
-    <li> مقدمة في أمن المعلومات(<a href="https://youtu.be/5og37POTDLc"> فيديو </a>)(<a href="./slides/01_intro.pdf"> عرض </a>) </li>
-    <li> مكعب أمن المعلومات(<a href="https://youtu.be/JqG5SrIjboA"> فيديو </a>) </li>
-    <li> مقدمة عن التشفير علم التعمية(<a href="https://youtu.be/ODQDFOIWEKc"> فيديو </a>) </li>
-    <li> التوقيع الرقمي والشهادات الرقمية(<a href="https://youtu.be/nYENa1JSWdg"> 1فيديو </a>) (<a href="https://youtu.be/39v4y56-INw"> 2فيديو </a>) </li>
-    <li> نظم التحكم بالوصول(<a href="https://youtu.be/s-KFtFZ-OoE">1فيديو </a>)(<a href="https://youtu.be/EuVQSYdL8R4"> 2فيديو </a>) </li>
-    <li> التهديدات</li> 
-    <li> البرمجيات الخبيثة وأنواعها</li>
+    <li> مقدمة في أمن المعلومات(<a href="https://youtu.be/5og37POTDLc"> فيديو </a>)(<a href="./slides/01_intro.pdf"> شرائح العرض </a>) </li>
+    <li> مكعب أمن المعلومات(<a href="https://youtu.be/JqG5SrIjboA"> فيديو </a>) (<a href="./slides/02_cybercube.pdf"> شرائح العرض </a>)</li>
+    <li> مقدمة عن التشفير علم التعمية(<a href="https://youtu.be/ODQDFOIWEKc"> فيديو </a>) (<a href="./slides/03_crypto.pdf"> شرائح العرض </a>)</li>
+    <li> التوقيع الرقمي والشهادات الرقمية(<a href="https://youtu.be/nYENa1JSWdg"> 1فيديو </a>) (<a href="https://youtu.be/39v4y56-INw"> 2فيديو </a>) (<a href="./slides/04_digitalcert.pdf"> شرائح العرض </a>)</li>
+    <li> نظم التحكم بالوصول(<a href="https://youtu.be/s-KFtFZ-OoE">1فيديو </a>)(<a href="https://youtu.be/EuVQSYdL8R4"> 2فيديو </a>) (<a href="./slides/05_accesscontrol.pdf"> شرائح العرض </a>)</li>
+    <li> التهديدات(<a href="./slides/06_threats.pdf"> شرائح العرض </a>)</li> 
+    <li> البرمجيات الخبيثة وأنواعها(<a href="./slides/07_malware.pdf"> شرائح العرض </a>)</li>
     <li>الهجمات </li>
     <li> سلسلة القتل</li>
     <li> الجدار الناري</li>
