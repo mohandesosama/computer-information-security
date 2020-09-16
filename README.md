@@ -22,8 +22,8 @@
   </ol>
    <h2> العملي:</h2>
    <ol>
-     <li> مدير المهام في ويندوز 10 (<a href="./Labs/chapter1%20Lab%20-%20Windows%20Task%20Manager.pdf"> عرض </a>) </li>
-    <li> التحكم في العمليات والذاكرة في ويندوز 10 (<a href="./Labs/chapter2%20Lab%20-%20Exploring%20Processes%2C%20Threads%2C%20Handles%2C%20and%20Windows%20Registry.pdf"> عرض </a>) </li>
+     <li> مدير المهام في ويندوز 10  </li>
+    <li> التحكم في العمليات والذاكرة في ويندوز 10 </li>
     <li> OpenSSL التشفير باستخدام  </li>
     <li> OpenSSL الهاش   </li>
     <li> مجموعات المستخدمين في ويندوز  </li>
