@@ -3,6 +3,9 @@
   <h3>
   د أسامة حسام الدين 
 </h3>
+  <h3>
+تحميل الكتاب من (<a href="[./slides/01_intro.pdf](https://www.noor-book.com/%D9%83%D8%AA%D8%A7%D8%A8-%D8%AA%D9%8A%D8%B3%D9%8A%D8%B1-%D8%A3%D9%85%D9%86-%D8%A7%D9%84%D9%85%D8%B9%D9%84%D9%88%D9%85%D8%A7%D8%AA-pdf)"> هنا </a>) 
+</h3>
   <h2> فصول الكتاب:</h2>
   <ol>
     <li> مقدمة في أمن المعلومات(<a href="https://youtu.be/5og37POTDLc"> فيديو </a>)(<a href="./slides/01_intro.pdf"> شرائح العرض </a>) </li>
